@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lhammer.cn/You-need-to-know-css/#/">
-    <img src="https://lhammer.cn/You-need-to-know-css/static/logo.png" width="152">
+    <img src="https://pic4.zhimg.com/80/v2-ea7dc9bffa4d5d35281e695022984aa3.jpg?source=4e949a73" width="152">
   </a>
   <h3 align="center">迷你css组件库</h3>
   <p align="center">
@@ -8,26 +8,27 @@
     <a href="https://github.com/l-hammer/You-need-to-know-css/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg"></a>
     <a href="https://juejin.im/post/5aab4f985188255582521c57"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-1.2k%20likes-brightgreen.svg"></a>
     <a href="https://codeclimate.com/github/l-hammer/You-need-to-know-css/maintainability"><img src="https://api.codeclimate.com/v1/badges/dfba02247f296387a1a7/maintainability" /></a>
-    <a href="http://hits.dwyl.io/l-hammer/You-need-to-know-css" alt="hit count"><img src="http://hits.dwyl.io/l-hammer/You-need-to-know-css.svg" /></a> 
+    <a href="http://hits.dwyl.io/l-hammer/You-need-to-know-css" alt="hit count"></a> 
     <a href="https://github.com/l-hammer/You-need-to-know-css"><img src="https://img.shields.io/github/stars/l-hammer/You-need-to-know-css.svg?style=social"></a>
   </p>
   <p align="center">
-    Web开发者应该掌握的CSS tricks<br>
+    胡乱写的css<br>
   </p>
 </p>
 
 
 
+
 ## 在线查看
 
-🌏 [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
+🌏 [gitee源码](https://gitee.com/codealexis/docsify-of-jhdee)
 
 
 ## 快速开始
 
 一些可以帮助你快速启动本项目的操作：
 
-- clone 这个仓库: `https://github.com/l-hammer/You-need-to-know-css.git`
+- clone 这个仓库: https://gitee.com/codealexis/docsify-of-jhdee
 - 用yarn 或者 npm全局安装 [docsify-cli](https://docsify.js.org/#/): `npm install docsify-cli -g (or yarn global add docsify-cli)`
 - 在终端运行命令 `docsify serve`
 - 打开 `http://localhost:3000` 在你的浏览器
@@ -62,7 +63,7 @@
 - :rocket:推送你的分支: `git push origin new-branch`
 - :tada:提交Pull Request
 
-或者提交一个[issue](https://github.com/l-hammer/You-need-to-know-css/issues) - 欢迎任何有帮助性的建议:stuck_out_tongue_winking_eye:
+或者提交一个[issue](https://gitee.com/codealexis/docsify-of-jhdee/issues) - 欢迎任何有帮助性的建议:stuck_out_tongue_winking_eye:
 
 ------
 
@@ -70,7 +71,7 @@
 
 如果你觉得本项目对你有帮助，或者想对我微小的工作表示一点资瓷，你可以请我喝一杯咖啡，感谢! 🙏🏻 🙏 🙏🏿
 
-<img src="https://lhammer.cn/You-need-to-know-css/static/reward-code.png" width="280"> <br><br>
+<img src="" width="280"> <br><br>
 
 如果你在留言中备注了你的Github的ID，将会显示在这里🤠
 
