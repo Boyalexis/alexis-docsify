@@ -7,16 +7,16 @@
   - [背景定位](zh-cn/extended-bg-position.md)
   - [条纹背景](zh-cn/stripes-background.md)
   - [1px 线/边](zh-cn/one-pixel-line.md)
-- **常见形状**
-  - [圆与椭圆](zh-cn/ellipse.md)
+- **常见布局**
+  - [导航栏](css/nav.md)
   - [parallel四边形](zh-cn/parallelogram.md)
   - [切角效果](zh-cn/bevel-corners.md)
   - [简易饼图](zh-cn/pie-chart.md)
   - [提示气泡](zh-cn/poptip.md)
   - [其他多边形](zh-cn/polygon.md)
 - **视觉效果**
-  - [文字浅出](css/text.md)
-  - [不规则投影](zh-cn/irregular-projection.md)
+  - [文字渐入](css/text.md)
+  - [滚动视差](css/vision-difference.md)
   - [毛玻璃效果](zh-cn/frosted-glass.md)
   - [斑马条纹](zh-cn/zebra-stripes.md)
   - [文字特效](zh-cn/text-effects.md)
@@ -25,8 +25,8 @@
   - [插入换行](zh-cn/line-breaks.md)
   - [图片对比控件](zh-cn/image-slider.md)
 - **用户体验**
-  - [选择合适的鼠标光标](zh-cn/mouse-cursor.md)
-  - [扩大可点击区域](zh-cn/extend-hit-area.md)
+  - [可伸缩搜索框Ⅰ](css/input-stretchⅠ.md)
+  - [可伸缩搜索框Ⅱ](css/input-stretchⅡ.md)
   - [自定义复选框](zh-cn/custom-checkbox.md)
   - [自定义单选框](zh-cn/custom-radio.md)
   - [自定义开关选择器](zh-cn/custom-switch.md)
